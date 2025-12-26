@@ -29,3 +29,10 @@ State changes emit events that update dependent systems, improving clarity and r
 While the simulation logic is implemented using Unreal Engine Blueprints, the underlying structure follows traditional algorithmic thinking.
 Blueprints are used as a visual representation of control flow, state transitions, and system communication rather than as a replacement for structured logic.
 
+## Visual Implementation Reference
+
+The following blueprint illustrates the Environmental State Manager, where environmental variables are updated and state transitions are handled.
+
+(See Media/environment_state_blueprint.png)
+
+The visual structure represents a state-based system where environmental conditions evolve dynamically based on predefined thresholds.
